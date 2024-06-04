@@ -53,7 +53,7 @@ section.sobre{
     width: 1200px;
     height:1200px;
     border-radius:50%;
-    background-color: #017143;
+    background-color: #ea8f07; /* #017143*/
 }
 
 .social-media{
@@ -94,3 +94,197 @@ section.sobre{
     cursor: pointer;
 
 }
+
+
+/**/
+/* Estilos gerais para o corpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Estilos para o menu de navegação */
+nav {
+    background-color: #007BFF;
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para o conteúdo principal */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para seções */
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    color: #333;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+/* Estilos para listas */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para o rodapé */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #777;
+}
+/
+/**/
+/* Estilos gerais para o corpo */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Estilos para o menu de navegação */
+nav {
+    background-color: #007BFF;
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para o conteúdo principal */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para seções */
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    color: #333;
+    border-bottom: 2px solid #007BFF;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+/* Estilos para artigos */
+article {
+    margin-bottom: 20px;
+}
+
+article h3 {
+    color: #007BFF;
+}
+
+.article p {
+    line-height: 1.6;
+}
+
+/* Estilos para produtos */
+.produto {
+    margin-bottom: 20px;
+}
+
+.produto h3 {
+    color: #007BFF;
+}
+
+.produto p {
+    line-height: 1.6;
+}
+
+/* Estilos para o rodapé */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #777;
+}
+
+/**/
